@@ -6,8 +6,8 @@
      return a + b
  }
 
- let sum1;
- let sum2;
+ let sum1= 5;
+ let sum2= 5;
  let resultado = suma(sum1, sum2)
  console.log(resultado)
 
